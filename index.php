@@ -608,7 +608,7 @@
                 </div>
                     <div class="col-md-6 col-sm-6 wow fadeInLeft">
                     <div class="contact-left">
-                        <p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei.</p>
+<!--                        <p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei.</p> -->
                         <div class="location">
                             <p>No206 (3A) Baho Road</p>
                             <p>Sanchaung, YanGoon</p>
@@ -635,9 +635,7 @@
                         <li><a href="javascript:void(0)"><i class="fa fa-google-plus"></i></a></li> 
                         <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i></a></li>
                     </ul>
-                    <h4>&copy; COPY RIGHT 2020 | by arkarmannaung.me</h4>
-
-                    
+                    <h4>&copy; COPY RIGHT 2020 | by arkarmannaung.me</h4>                   
                 </div>
             </div>
         </div>
