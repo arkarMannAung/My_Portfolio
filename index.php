@@ -425,7 +425,7 @@
 
         </div> -->
 
-        <a href="#" class="btn btn-default featured">Download Resume</a>
+        <a href="images/my-cv.pdf" class="btn btn-default featured">Download CV</a>
     </div>
 </div>
      
