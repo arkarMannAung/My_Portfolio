@@ -136,7 +136,7 @@
                         <p style="text-align: justify;">I started this web development course at myanmar it consulting course on October 26, 2020.Before that, I was interested in mobile app development, so I started with dark programming and started using flutter to do self-study to start apps, and then linked to web development of myanmar it consulting. I came up with the idea while still having time to open a course, and I started to think that web development would have more job opportunities in the real world, so I joined myanmar it consulting.Although the courses were summarized as spot learning, I tried to be more complete by self-study. In fact, the programming languages ​​were different in writing and the ideas were all the same.
                         </p>
                         <br/>
-                        <p>Web Development</p>
+                        <p>Other Tool</p>
                         <p style="text-align: justify;">I am proficient in graphic design with photoshop and coreldraw. Other design tools include google sketchup and autocad. I can also use Adobe lash creation tool SWiSH Max because I have tried some animations and songs in the adobe flash player. You can also use some scripts and events, and even small swf games.
                         </p>
 
