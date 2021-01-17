@@ -527,6 +527,22 @@
                     </div>
                 </div> <!-- col-md-4 end -->
                 <div class="clearfix"></div>
+                
+                <div class="col-md-4 col-sm-4">
+                    <div class="portfolio-box">                     
+                        <img src="images/portfolio/plate.jpg" alt="" class="img-responsive">
+                        
+                        <div class="image-overlay text-center">
+                            <a href="https://platebearingtest.arkarmannaung.me/">
+
+                                <span>Platebearing Test App<br>Regression Method with Vue.js</span>
+
+                                <!-- <i class="fa fa-arrows-alt"></i> -->
+                            </a>
+                        </div>
+                    </div>
+                </div> <!-- col-md-4 end -->
+
                 <div class="col-md-4 col-sm-4">
                     <div class="portfolio-box">
                         <img src="images/portfolio/portfolio_pj3.jpg" alt="" class="img-responsive">
@@ -547,21 +563,6 @@
                         </div>
                     </div>
                 </div> <!-- col-md-4 end 3step-->
-
-                <div class="col-md-4 col-sm-4">
-                    <div class="portfolio-box">                     
-                        <img src="images/portfolio/panel2.jpg" alt="" class="img-responsive">
-                        
-                        <div class="image-overlay text-center">
-                            <a href="https://orderingsystem.arkarmannaung.me">
-
-                                <span>Product Distribution System<br>with Laravel</span>
-
-                                <!-- <i class="fa fa-arrows-alt"></i> -->
-                            </a>
-                        </div>
-                    </div>
-                </div> <!-- col-md-4 end -->
 
                 <!-- <div class="clearfix"></div> -->
             </div>
