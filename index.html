@@ -269,7 +269,7 @@
                         on the National Qualifications Framework of England, Wales and Northern
                         ireland (NQF), some changes have been made to the qualification, at the 
                         request of the office of the Qualifications and Examinations Regulator 
-                        (Ofqual), the qualifications regulator in England.</p>
+                        (Ofqual), the qualifications regulator in England. <a href="images/mycertis/level3/lev3-full.pdf">E-Certificate</a></p>
                 </div>
             </div>
 
@@ -290,7 +290,7 @@
                     advanced engineering. The learner will have the potential to fulfil a role
                     within Engineering that requires a high level of responsibility, for example
                     leading to middle management and/or project management, requiring the
-                    use of personal initiative and critical judgement.</p>
+                    use of personal initiative and critical judgement.<a href="images/mycertis/level5/lev5-full.pdf">E-Certificate</a></p>
                 </div>
             </div>
 
